@@ -5,4 +5,4 @@
 
 [<img src='./cheese.png' width='300'>](https://adnjoo.github.io/smartcheese/)
 
-[telegram](https://t.me/joinchat/1oPLhg9Y1fYxNDJh)
+[join telegram fro free tokens](https://t.me/joinchat/1oPLhg9Y1fYxNDJh)
