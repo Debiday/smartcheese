@@ -12,10 +12,11 @@ airdrop (10-10-21) - 8% of supply distributed through telegram ✔️
 
 listing on marketcap.cash (10-11-21) ✔️
 
-listing on dex (muesliswap, benswap, mistswap) (TBD Q4 2021)
+listing on dex muesliswap, benswap, mistswap (Q4 21)
+
+<!-- listing on dex ([muesliswap](https://bch.muesliswap.com/), [benswap](https://benswap.cash/), [mistswap](https://app.mistswap.fi/swap)) (TBD Q4 2021) -->
 
 cheese-nft marketplace (TBD 2022)
-
 
 ## dev to-do
 
@@ -24,4 +25,3 @@ update frontend to react
 pie chart of coins
 
 roadmap with action-items
-
