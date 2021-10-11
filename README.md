@@ -16,7 +16,7 @@ listing on dex muesliswap, benswap, mistswap (Q4 21)
 
 <!-- listing on dex ([muesliswap](https://bch.muesliswap.com/), [benswap](https://benswap.cash/), [mistswap](https://app.mistswap.fi/swap)) (TBD Q4 2021) -->
 
-cheese-nft marketplace (TBD 2022)
+cheese-nft marketplace (TBD Q2 2022)
 
 ## dev to-do
 
